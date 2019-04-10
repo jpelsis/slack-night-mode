@@ -14,12 +14,6 @@ h1 a { color: #e6e6e6; }
 
 h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #e6e6e6; }
 
-.c-virtual_list__scroll_container { background: #1F1F1F; }
-
-.c-message_kit__gutter { background: #1F1F1F; }
-
-.c-channel_name__text { color: #FFFFFF; }
-
 .bordered { border: 1px solid #363636; }
 
 .top_border { border-top: 1px solid #363636; }
