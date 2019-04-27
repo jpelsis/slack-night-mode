@@ -14,6 +14,8 @@ h1 a { color: #e6e6e6; }
 
 h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #e6e6e6; }
 
+
+
 .bordered { border: 1px solid #363636; }
 
 .top_border { border-top: 1px solid #363636; }
@@ -1002,7 +1004,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .c-message_list .c-scrollbar__bar { background: #424242; }
 
-.c-virtual_list__item--focus:focus .c-message_list__focus_indicator { box-shadow: inset 0 0 0 3px rgba(130, 130, 130, 0.8); }
+.c-virtual_list__item--focus:focus .c-message_list__focus_indicator { box-shadow: inset 0 0 0 3px rgba(130, 130, 130, 0.8); background: #424242; }
 
 ts-message { color: #e6e6e6; }
 
