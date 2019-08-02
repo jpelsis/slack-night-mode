@@ -14,8 +14,6 @@ h1 a { color: #e6e6e6; }
 
 h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #e6e6e6; }
 
-
-
 .bordered { border: 1px solid #363636; }
 
 .top_border { border-top: 1px solid #363636; }
@@ -61,6 +59,8 @@ h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #e6e6e6; }
 .client_channels_list_container { background-color: #363636; border-right-color: #222; }
 
 #col_channels { color: #e6e6e6; }
+
+.p-unreads_view__header { background-color: #363636 }
 
 .p-channel_sidebar { background-color: #363636; color: #e6e6e6; }
 
